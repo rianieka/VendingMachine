@@ -1,0 +1,8 @@
+D:\riani\C#\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+D:\riani\C#\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+D:\riani\C#\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+D:\riani\C#\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojAssemblyReference.cache
+D:\riani\C#\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+D:\riani\C#\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+D:\riani\C#\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+D:\riani\C#\VendingMachine\VendingMachine\bin\Debug\Data.csv
